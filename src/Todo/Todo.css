@@ -1,0 +1,28 @@
+.todo-container {
+  width: 550px;
+  padding: 20px;
+  margin: 40px;
+  box-shadow: red blue;
+  border-radius: 10px;
+}
+
+.todo-footer {
+  background-color: thistle;
+  display: flex;
+  padding: 5px;
+  justify-content: space-evenly;
+  border-radius: 0 0 5px 5px;
+}
+
+.footer-clearAll {
+  background-color: rgb(186, 186, 186);
+  /* border: 1px solid black; */
+  border-radius: 20px;
+  text-transform: lowercase;
+  width: 30%;
+  margin-left: 180px;
+  padding: 2.5px;
+  font-size: small;
+  opacity: 90%;
+  cursor: pointer;
+}
